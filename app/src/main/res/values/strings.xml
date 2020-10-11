@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title_q_1">Question 1</string>
+    <string name="content_q_1">What was Indiana Jones\' profession?</string>
+    <string name="option_q_1_1">Archaolagist</string>
+    <string name="option_q_1_2">Archaeologist</string>
+    <string name="option_q_1_3">Archeologist</string>
+    <string name="title_q_2">Question 2</string>
+    <string name="content_q_2">Jane Austen\'s most famous novel is called \'Pride and ___\'</string>
+    <string name="option_q_2_1">Predjudice</string>
+    <string name="option_q_2_2">Prejudise</string>
+    <string name="option_q_2_3">Prejudice</string>
+    <string name="title_q_3">Question 3</string>
+    <string name="content_q_3">Eva is feeling very stressed, who should she go to talk to about it?</string>
+    <string name="option_q_3_1">A psychiatrist</string>
+    <string name="option_q_3_2">A psyciatrist</string>
+    <string name="option_q_3_3">A psychatrist</string>
+    <string name="title_q_4">Question 4</string>
+    <string name="content_q_4">Who makes sure that everyone follows the rules in a game of football?</string>
+    <string name="title_q_5">Question 5</string>
+    <string name="content_q_5">A common grammar mistake is to mix up \'who\'s\' and \'whose\'.Which of these sentences are correct?</string>
+    <string name="option_q_5_1">Who\'s books do these belong to?</string>
+    <string name="option_q_5_2">Can you tell me who\'s got my jacket?</string>
+    <string name="option_q_5_3">Whose clothes are those?</string>
+    <string name="option_q_5_4">Who\'s going to the party tonight?</string>
+    <string name="your_score_is">Your Score is</string>
+    <string name="make_sure_answer_questions">Please make sure you answer all the questions</string>
+</resources>
